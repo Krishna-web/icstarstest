@@ -1,0 +1,29 @@
+pre
+{
+ color:rgba(136, 124, 124, 0.822)
+}
+.mail
+{
+    box-sizing: border-box;
+    height: 40px;
+    width: 100%;
+    position: relative;
+    border-radius: rgb(52, 52, 204);;
+}
+.button
+{
+    box-sizing: border-box;
+    height: 40px;
+    width: 100%;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    margin: 0;
+    padding: 0 6px;
+    background-color: rgb(52, 52, 204);;
+    color:white
+}
+.link
+{
+    color:rgb(52, 52, 204)
+    
+}

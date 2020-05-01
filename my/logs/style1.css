@@ -1,0 +1,53 @@
+h2
+{
+ color:rgb(52, 52, 204);
+ 
+}
+body
+{
+   text-align: center;
+}
+
+.img {
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 50%;
+      
+}
+
+.mail
+{
+  box-sizing: border-box;
+    height: 40px;
+    width: 60%;
+    
+}
+.passw
+{
+  box-sizing: border-box;
+    height: 40px;
+    width: 60%;
+    
+}
+
+
+.button
+{
+  box-sizing: border-box;
+  height: 40px;
+  width: 60%;
+  cursor: pointer;
+background-color: rgb(52, 52, 204);
+color: white
+
+}
+.link1
+{
+  color:rgb(52, 52, 204);
+}
+
+.link2
+{
+  color:rgb(52, 52, 204);
+}
