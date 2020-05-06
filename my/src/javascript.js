@@ -1,5 +1,5 @@
 import React from "react"
-fuction tryToLogIn() {
+function tryToLogIn() {
     let userData = [
     {
     username:'user1',
@@ -15,7 +15,7 @@ fuction tryToLogIn() {
     username:'user3',
     password:'pass3'
     }
-    ]
+]
     let username=document.getElementById('userinput')
     let password=document.getElementById('userpassword')
     

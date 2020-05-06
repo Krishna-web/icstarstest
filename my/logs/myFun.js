@@ -1,6 +1,6 @@
-   function javascript()
+   function myFunction()
     {
-       
+       console.log("hello")
         var uname=document.getElementById("eid");
         var pass=document.getElementById("pass");
     
